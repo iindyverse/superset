@@ -1,0 +1,3 @@
+# database drivers
+pymysql
+psycopg2-binary
